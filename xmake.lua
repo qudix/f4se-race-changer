@@ -29,7 +29,7 @@ target("f4se-race-changer")
     add_rules("commonlibf4.plugin", {
         name = "race-changer",
         author = "qudix, jarari",
-        description = "F4SE plugin template using CommonLibF4"
+        description = "Makes the game update the character's race after loading a save."
     })
 
     -- add src files
