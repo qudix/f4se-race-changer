@@ -8,8 +8,8 @@ Makes the game update the character's race after loading a save.
 
 ## Getting Started
 ```bat
-git clone --recurse-submodules https://github.com/qudix/commonlibf4-template
-cd commonlibf4-template
+git clone --recurse-submodules https://github.com/qudix/f4se-race-changer
+cd f4se-race-changer
 ```
 
 ### Build
