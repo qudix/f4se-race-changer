@@ -11,6 +11,7 @@ set_warnings("allextra")
 set_policy("package.requires_lock", true)
 
 add_rules("mode.debug", "mode.releasedbg")
+add_rules("plugin.compile_commands.autoupdate")
 add_rules("plugin.vsxmake.autoupdate")
 
 target("f4se-race-changer")
